@@ -1,6 +1,6 @@
 
 import { randomUUID } from 'node:crypto';
-import { TopBraid, skos, skos_Concept, skos_ConceptScheme} from './lib/ontologie_archimate_ADS_generated_node';
+import { TopBraid, skos } from './lib/TopBraid_skos_ADS_generated_node';
 
   
 
